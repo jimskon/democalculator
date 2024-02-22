@@ -1,5 +1,5 @@
 # democalculator
-A demo calculator
+A demo calculator using bootstrap
 
 # To deploy:
 
