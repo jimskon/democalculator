@@ -1,6 +1,6 @@
 # Makefile for web deployment
 # Must first:
-# mkdir /var/www/html/calc
+# sudo mkdir /var/www/html/calc
 # sudo chown ubuntu /var/www/html/calc
 
 all: PutHTML
